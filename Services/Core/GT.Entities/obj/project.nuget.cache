@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "d58+SB9dQs/eEq0Qa19JpFxCGsCQPIKBapXTeB/YIPuKivwQ/nSPR5ORTLMVMT7xdN5zMYrggAqUChqLex7eog==",
+  "success": true,
+  "projectFilePath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj",
+  "expectedPackageFiles": [
+    "/home/ilya/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/ilya/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
