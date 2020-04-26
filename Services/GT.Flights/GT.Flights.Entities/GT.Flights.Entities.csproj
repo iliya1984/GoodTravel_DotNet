@@ -5,6 +5,9 @@
     <ProjectReference Include="..\..\Core\GT.Geo.Entities\GT.Geo.Entities.csproj" />
     <Content Include="Flights\Flight.cs" />
     <Content Include="EFlights.cs" />
+    <Content Include="Common\AirportCity.cs" />
+    <Content Include="Common\Airport.cs" />
+    <Content Include="Common\AirportCountry.cs" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>

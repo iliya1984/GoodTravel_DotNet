@@ -1,8 +1,6 @@
-using GT.Core.Entities.Entities;
-
-namespace GT.Geo.Entities
+namespace GT.Flights.Entities.Common
 {
-    public class GeoRegion: Entity
+    public class AirportCity
     {
         public string Code { get; set;}
         public string Name { get; set;}
