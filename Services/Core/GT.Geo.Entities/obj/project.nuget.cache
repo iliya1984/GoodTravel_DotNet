@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "VrOQSxk28i+gGu9whsFKE4AdJHpbMZHwDzFHGnMLraydc4nAWZf5IQWUHRbUsZucIURp+GznuwlUpD96mjki2A==",
+  "dgSpecHash": "aaz31fxi1Kz3z7GKi5yOhBzf9vl22OW7DIXq0+MPV4+0hQvIfyvDH1pO87mO5wkYwtx4qAwpvHmMhDuhmioQUw==",
   "success": true,
   "projectFilePath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Geo.Entities/GT.Geo.Entities.csproj",
   "expectedPackageFiles": [

@@ -6,5 +6,10 @@
   <ItemGroup>
     <Content Include="Interfaces\IEntity.cs" />
     <Content Include="Entities\Entity.cs" />
+    <Content Include="Entities\TravelEntity.cs" />
+    <Content Include="Enums\EProducts.cs" />
+    <Content Include="Enums\ETravel.cs" />
+    <Content Include="Enums\EFlights.cs" />
+    <Content Include="Enums\ECoreFlights.cs" />
   </ItemGroup>
 </Project>

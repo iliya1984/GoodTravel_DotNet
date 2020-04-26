@@ -5,5 +5,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Content Include="Interfaces\ICountryLocatable.cs" />
+    <Content Include="City.cs" />
+    <Content Include="Interfaces\ICityLocatable.cs" />
+    <Content Include="GeoRegion.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GT.Entities\GT.Entities.csproj" />
+    <Content Include="Country.cs" />
+    <Content Include="Regions\City.cs" />
+    <Content Include="Regions\Continent.cs" />
+    <Content Include="Regions\Country.cs" />
+    <Content Include="Regions\GeoRegion.cs" />
   </ItemGroup>
 </Project>

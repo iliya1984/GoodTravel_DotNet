@@ -1,4 +1,4 @@
-namespace GT.Core.Entities.Interfaces
+namespace GT.Entities.Interfaces
 {
     public interface IEntity
     {

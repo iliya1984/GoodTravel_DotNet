@@ -1,7 +1,7 @@
 using System;
-using GT.Core.Entities.Interfaces;
+using GT.Entities.Interfaces;
 
-namespace GT.Core.Entities.Entities
+namespace GT.Entities.Entities
 {
     public abstract class Entity : IEntity
     {
