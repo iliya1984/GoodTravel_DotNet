@@ -9,5 +9,7 @@
   <ItemGroup>
     <ProjectReference Include="..\GT.Entities\GT.Entities.csproj" />
     <Content Include="City.cs" />
+    <Content Include="GeoRegion.cs" />
+    <Content Include="Continent.cs" />
   </ItemGroup>
 </Project>

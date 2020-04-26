@@ -1,7 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
-
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\GT.Entities\GT.Entities.csproj" />
+    <ProjectReference Include="..\..\Core\GT.Geo.Entities\GT.Geo.Entities.csproj" />
+    <Content Include="Flights\Flight.cs" />
+    <Content Include="EFlights.cs" />
+  </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
-
 </Project>

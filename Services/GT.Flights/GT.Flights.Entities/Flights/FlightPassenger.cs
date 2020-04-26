@@ -1,4 +1,4 @@
-namespace GT.Flights.Entities
+namespace GT.Flights.Entities.Flights
 {
     public class FlightPassenger
     {
