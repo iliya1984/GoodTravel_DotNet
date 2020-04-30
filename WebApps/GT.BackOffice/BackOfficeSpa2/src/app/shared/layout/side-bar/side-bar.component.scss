@@ -1,0 +1,40 @@
+@import '../../../../assets/css/variables.scss';
+
+@media(min-width: 992px)
+{
+  .side-bar
+  {
+    position: fixed;
+    width: 256px;
+    height: 100%;
+    margin: 0;
+
+    .logo
+    {
+      padding: 10 10;
+      height: 36px;
+      padding-top: 20px;
+      background-color: rgba(0, 0, 21, .2);
+
+      a
+      {
+        font-size: large;
+        color: white;
+        font-weight: 600;
+        margin-left: 75px;
+        text-decoration: none;
+      }
+    }
+
+    .side-nav
+    {
+      width: 256px;
+      background-color: $dt-colors-secondary;
+
+      .mat-list-item
+      {
+        color: rgb(255,255,255,.8);
+      }
+    }
+  }
+}

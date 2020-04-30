@@ -1,0 +1,12 @@
+@import '../../../../assets/css/variables.scss';
+
+@media (min-width: 992px)
+{
+  .header
+  {
+    min-height: 56px;
+    background-color: $dt-colors-secondary;
+    width: 100%;
+  }
+}
+
