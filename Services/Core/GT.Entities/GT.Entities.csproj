@@ -11,5 +11,14 @@
     <Content Include="Enums\ETravel.cs" />
     <Content Include="Enums\EFlights.cs" />
     <Content Include="Enums\ECoreFlights.cs" />
+    <Content Include="PersonalData\Phone.cs" />
+    <Content Include="ErrorHandling\Exceptions\InvalidEntityException.cs" />
+    <Content Include="Exceptions\InvalidEntityException.cs" />
+    <Content Include="Exceptions\PersonalData\InvalidPhoneException.cs" />
+    <Content Include="Exceptions\PersonalData\InvalidPhoneEntityException.cs" />
+    <Content Include="Exceptions\DetailedEntityException.cs" />
+    <Content Include="Enums\EExceptions.cs" />
+    <Content Include="Enums\EPersonalData.cs" />
+    <Content Include="Exceptions\PersonalData\PhoneEntityException.cs" />
   </ItemGroup>
 </Project>

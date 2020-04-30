@@ -16,6 +16,6 @@ namespace GT.Flights.Entities.Flights
         public DateTime ArrivalDate { get; set;}
         public Airline Airline { get; set; }
         public SeatPricing SeatPricing { get; set; }
-        public List<FlightRemark> Remarks { get; set; }
+        public List<string> Remarks { get; set; }
     }
 }

@@ -1,15 +1,15 @@
 
-
-using GT.Geo.Entities.Interfaces;
 using GT.Geo.Entities.Regions;
+using GT.Entities.Entities;
 
 namespace GT.Flights.Entities.Common
 {
-    public class Airport : ICityLocatable, ICountryLocatable
+    public class Airport : Entity
     {
         public int Id { get; set;}
         public string Code { get; set; }
-        public City City { get; set; }
-        public Country Country { get; set; }
+        public string Name { get; set; }
+        public int CityId { get; set; }
+        public int CountryId { get; set; }
     }
 }

@@ -11,7 +11,6 @@
     <Content Include="Common\Airline.cs" />
     <Content Include="Enums\EFlights.cs" />
     <Content Include="Flights\SeatMap.cs" />
-    <Content Include="Flights\FlightRemark.cs" />
     <Content Include="Seats\SeatPricingItem.cs" />
     <Content Include="Seats\SeatPricing.cs" />
   </ItemGroup>
