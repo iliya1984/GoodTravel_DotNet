@@ -5,8 +5,20 @@
   .header
   {
     min-height: 56px;
-    background-color: $dt-colors-secondary;
     width: 100%;
+
+    .mat-toolbar
+    {
+      margin-left: 256px;
+      height: 56px;
+      background-color: $dt-colors-secondary;
+      color: rgba(255, 255, 255, 0.8);
+
+      .mat-button
+      {
+        font-size: 14px;
+      }
+    }
   }
 }
 

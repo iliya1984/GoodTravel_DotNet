@@ -13,7 +13,8 @@ import { MatSidenavModule } from  '@angular/material/sidenav';
 import {  MatListModule } from  '@angular/material/list';
 import {  MatButtonModule } from  '@angular/material/button';
 import { HttpClientModule } from '@angular/common/http';
-import { FlightsPageComponent } from './pages/flights-page/flights-page.component'
+import { FlightsPageComponent } from './pages/flights-page/flights-page.component';
+import { NewFlightPageComponent } from './pages/new-flight-page/new-flight-page.component'
 ;
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { FlightsPageComponent } from './pages/flights-page/flights-page.componen
     ContentComponent,
     SideBarComponent,
     HeaderComponent,
-    FlightsPageComponent
+    FlightsPageComponent,
+    NewFlightPageComponent
   ],
   imports: [
     BrowserModule,

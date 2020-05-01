@@ -1,1 +1,18 @@
-<div class="header"></div>
+<div class="header">
+  <mat-toolbar color="primary">
+    <mat-toolbar-row>
+      <button mat-icon-button>
+        <!-- <mat-icon (click)="sidenav.toggle()">menu</mat-icon> -->
+      </button>
+      <span class="menu-spacer"></span>
+      <div>
+        <a mat-button [routerLink]="'/dashboards'"> Dashboards </a>
+        <a mat-button [routerLink]="'/customers'"> Customers </a>
+        <a mat-button [routerLink]="'/settings'"> Setings </a>
+
+      </div>
+    </mat-toolbar-row>
+  </mat-toolbar>
+
+
+</div>
