@@ -13,8 +13,10 @@ import { MatSidenavModule } from  '@angular/material/sidenav';
 import {  MatListModule } from  '@angular/material/list';
 import {  MatButtonModule } from  '@angular/material/button';
 import { HttpClientModule } from '@angular/common/http';
-import { FlightsPageComponent } from './pages/flights-page/flights-page.component';
-import { NewFlightPageComponent } from './pages/new-flight-page/new-flight-page.component'
+import { FlightsPageComponent } from './pages/flights/flights-page/flights-page.component';
+import { NewFlightPageComponent } from './pages/flights/new-flight-page/new-flight-page.component';
+import { NavigationItemComponent } from './shared/layout/navigation-item/navigation-item.component';
+import { NavigationService } from './services/layout/navigation.service';
 ;
 @NgModule({
   declarations: [
@@ -23,7 +25,8 @@ import { NewFlightPageComponent } from './pages/new-flight-page/new-flight-page.
     SideBarComponent,
     HeaderComponent,
     FlightsPageComponent,
-    NewFlightPageComponent
+    NewFlightPageComponent,
+    NavigationItemComponent
   ],
   imports: [
     BrowserModule,
@@ -36,7 +39,7 @@ import { NewFlightPageComponent } from './pages/new-flight-page/new-flight-page.
     MatIconModule,
     HttpClientModule
   ],
-  providers: [],
+  providers: [NavigationService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
