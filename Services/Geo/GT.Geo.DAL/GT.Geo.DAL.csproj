@@ -9,7 +9,13 @@
     <Content Include="Interfaces\ICitiesRepository.cs" />
     <Content Include="Interfaces\ICityRepository.cs" />
     <Content Include="Interfaces\IRepositoryFactory.cs" />
-    <Content Include="Repositories\ContinentRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Interfaces\MongoDB\Repositories\ContinentMongoDBRepository.cs" />
+    <Content Include="Interfaces\MongoDB\Entities\Continent.cs" />
+    <Content Include="Interfaces\MongoDB\Entities\DbContinent.cs" />
+    <Content Include="Mongo\Repositories\ContinentMongoDBRepository.cs" />
+    <Content Include="Mongo\Entities\DbContinent.cs" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>

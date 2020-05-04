@@ -1,4 +1,4 @@
-namespace GT.DAL.Interfaces
+namespace GT.DAL.Interfaces.Repositories
 {
     public interface IDeleteRepository
     {

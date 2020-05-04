@@ -2,11 +2,35 @@
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
     <ProjectReference Include="..\GT.Entities\GT.Entities.csproj" />
-    <Content Include="Interfaces\IGetByIdRepository.cs" />
-    <Content Include="Interfaces\IGetAllRepository.cs" />
-    <Content Include="Interfaces\IGetByFilterRepository.cs" />
     <Content Include="Interfaces\ICreateRepository.cs" />
-    <Content Include="Interfaces\IDeleteRepository.cs" />
+    <Content Include="MongoDB\MongoDBRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.10.3" />
+    <Content Include="Mongo\MongoDBRepository.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\Services\GS.Logging\GS.Logging.Client\GS.Logging.Client.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\Services\GS.Logging\GS.Logging.Entities\GS.Logging.Entities.csproj" />
+    <Content Include="Mongo\MongoDBRepositoryToolkit.cs" />
+    <Content Include="Interfaces\Repositories\ICreateRepository.cs" />
+    <Content Include="Interfaces\Repositories\IDeleteRepository.cs" />
+    <Content Include="Interfaces\Repositories\IGetByFilterRepository.cs" />
+    <Content Include="Interfaces\Repositories\IGetAllRepository.cs" />
+    <Content Include="Interfaces\Repositories\IUpdateRepository.cs" />
+    <Content Include="Interfaces\Repositories\IRepository.cs" />
+    <Content Include="Interfaces\Repositories\IGetByIdRepository.cs" />
+    <Content Include="EDAL.cs" />
+    <Content Include="Interfaces\Configuration\IConfigurationManager.cs" />
+    <Content Include="Repositories\Repository.cs" />
+    <Content Include="Configuration\ConfigurationManager.cs" />
+    <Content Include="Mongo\MongoDBSettings.cs" />
+    <Content Include="DI\DALDIModule.cs" />
+    <Content Include="Mongo\MongoDBClientFactory.cs" />
+    <Content Include="Interfaces\Mongo\IMongoDBClientFactory.cs" />
+    <Content Include="Repositories\RepositoryRegistrationAttribute.cs" />
+    <Content Include="DI\RepositoryRegistery.cs" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
