@@ -6,3 +6,11 @@
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.AssemblyInfo.cs
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.dll
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/bin/Debug/netstandard2.0/GT.Entities.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/bin/Debug/netstandard2.0/GT.Geo.Entities.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/bin/Debug/netstandard2.0/GT.Entities.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/bin/Debug/netstandard2.0/GT.Geo.Entities.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.csprojAssemblyReference.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.csproj.CopyComplete
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/bin/Debug/netstandard2.0/GT.DAL.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/bin/Debug/netstandard2.0/GT.DAL.pdb

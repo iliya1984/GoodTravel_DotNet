@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7ReyDLBPas6TLqiHEM5o6RYw2MZKLnGM3H8LPTYvrpJ2KrZq6QI4Fl6hqNIy0tklMz0syO1p5SC01e1uxcwLxw==",
+  "dgSpecHash": "dOJTMknnQ40G/zBpuYZxLIQSkYiMyz3oaTEAHC8RxlGj1poPS6IOgd2cgKTNv1NDo5TM2cZHriHnmzigYC1Gbg==",
   "success": true,
   "projectFilePath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/GT.Geo.DAL.csproj",
   "expectedPackageFiles": [

@@ -9,6 +9,14 @@
     <Content Include="Regions\GeoEntity.cs" />
     <Content Include="Interfaces\IGeoEntity.cs" />
     <Content Include="EGeo.cs" />
+    <Content Include="Regions\TimeZone.cs" />
+    <Content Include="Information\Electricity.cs" />
+    <Content Include="Information\TimeZone.cs" />
+    <Content Include="Information\CityInformation.cs" />
+    <Content Include="Regions\GoLocation.cs" />
+    <Content Include="Information\Language.cs" />
+    <Content Include="Filters\Regions\CountryFilter.cs" />
+    <Content Include="Filters\Regions\CityFIlter.cs" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>

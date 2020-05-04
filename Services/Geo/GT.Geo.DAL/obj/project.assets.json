@@ -25,6 +25,42 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "GT.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "GT.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GT.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GT.DAL.dll": {}
+        }
+      },
+      "GT.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GT.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GT.Entities.dll": {}
+        }
+      },
+      "GT.Geo.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "GT.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GT.Geo.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GT.Geo.Entities.dll": {}
+        }
       }
     }
   },
@@ -172,10 +208,28 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "GT.DAL/1.0.0": {
+      "type": "project",
+      "path": "../../Core/GT.DAL/GT.DAL.csproj",
+      "msbuildProject": "../../Core/GT.DAL/GT.DAL.csproj"
+    },
+    "GT.Entities/1.0.0": {
+      "type": "project",
+      "path": "../../Core/GT.Entities/GT.Entities.csproj",
+      "msbuildProject": "../../Core/GT.Entities/GT.Entities.csproj"
+    },
+    "GT.Geo.Entities/1.0.0": {
+      "type": "project",
+      "path": "../GT.Geo.Entities/GT.Geo.Entities.csproj",
+      "msbuildProject": "../GT.Geo.Entities/GT.Geo.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "GT.DAL >= 1.0.0",
+      "GT.Entities >= 1.0.0",
+      "GT.Geo.Entities >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -202,7 +256,17 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/GT.DAL.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/GT.DAL.csproj"
+            },
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj"
+            },
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/GT.Geo.Entities.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/GT.Geo.Entities.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

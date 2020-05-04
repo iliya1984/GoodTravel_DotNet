@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\GT.Entities\GT.Entities.csproj" />
+    <Content Include="Interfaces\IGetByIdRepository.cs" />
+    <Content Include="Interfaces\IGetAllRepository.cs" />
+    <Content Include="Interfaces\IGetByFilterRepository.cs" />
+    <Content Include="Interfaces\ICreateRepository.cs" />
+    <Content Include="Interfaces\IDeleteRepository.cs" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+</Project>

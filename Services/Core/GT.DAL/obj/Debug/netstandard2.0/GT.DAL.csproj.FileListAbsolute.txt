@@ -1,0 +1,12 @@
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/bin/Debug/netstandard2.0/GT.DAL.deps.json
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/bin/Debug/netstandard2.0/GT.DAL.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/bin/Debug/netstandard2.0/GT.DAL.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/bin/Debug/netstandard2.0/GT.Entities.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/bin/Debug/netstandard2.0/GT.Entities.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/obj/Debug/netstandard2.0/GT.DAL.csprojAssemblyReference.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/obj/Debug/netstandard2.0/GT.DAL.csproj.CoreCompileInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/obj/Debug/netstandard2.0/GT.DAL.AssemblyInfoInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/obj/Debug/netstandard2.0/GT.DAL.AssemblyInfo.cs
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/obj/Debug/netstandard2.0/GT.DAL.csproj.CopyComplete
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/obj/Debug/netstandard2.0/GT.DAL.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/obj/Debug/netstandard2.0/GT.DAL.pdb
