@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jYfKTE7bsR/H0/g+SugwdOyKP5X/wQbYvYE/Pvkw5g74ib0Zgu8jnKX1P/+k38yzqBBg73YejT9ZX98vjzHjfw==",
+  "success": true,
+  "projectFilePath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/GT.Geo.BLL.csproj",
+  "expectedPackageFiles": [
+    "/home/ilya/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/ilya/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

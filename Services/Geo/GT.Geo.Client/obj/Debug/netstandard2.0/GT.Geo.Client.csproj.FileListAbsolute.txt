@@ -1,0 +1,8 @@
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Client/bin/Debug/netstandard2.0/GT.Geo.Client.deps.json
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Client/bin/Debug/netstandard2.0/GT.Geo.Client.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Client/bin/Debug/netstandard2.0/GT.Geo.Client.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Client/obj/Debug/netstandard2.0/GT.Geo.Client.csproj.CoreCompileInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Client/obj/Debug/netstandard2.0/GT.Geo.Client.AssemblyInfoInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Client/obj/Debug/netstandard2.0/GT.Geo.Client.AssemblyInfo.cs
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Client/obj/Debug/netstandard2.0/GT.Geo.Client.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Client/obj/Debug/netstandard2.0/GT.Geo.Client.pdb

@@ -1,0 +1,8 @@
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/bin/Debug/netstandard2.0/GT.Geo.DAL.deps.json
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/bin/Debug/netstandard2.0/GT.Geo.DAL.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/bin/Debug/netstandard2.0/GT.Geo.DAL.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.csproj.CoreCompileInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.AssemblyInfoInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.AssemblyInfo.cs
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/obj/Debug/netstandard2.0/GT.Geo.DAL.pdb

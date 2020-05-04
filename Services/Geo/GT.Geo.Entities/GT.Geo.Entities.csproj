@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+  <ItemGroup>
+    <ProjectReference Include="..\..\Core\GT.Entities\GT.Entities.csproj" />
+    <Content Include="Interfaces\IGeoRegion.cs" />
+    <Content Include="Regions\City.cs" />
+    <Content Include="Regions\Continent.cs" />
+    <Content Include="Regions\Country.cs" />
+    <Content Include="Regions\GeoEntity.cs" />
+    <Content Include="Interfaces\IGeoEntity.cs" />
+    <Content Include="EGeo.cs" />
+  </ItemGroup>
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+</Project>

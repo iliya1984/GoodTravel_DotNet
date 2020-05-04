@@ -1,0 +1,8 @@
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GT.Geo.BLL.deps.json
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GT.Geo.BLL.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GT.Geo.BLL.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/obj/Debug/netstandard2.0/GT.Geo.BLL.csproj.CoreCompileInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/obj/Debug/netstandard2.0/GT.Geo.BLL.AssemblyInfoInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/obj/Debug/netstandard2.0/GT.Geo.BLL.AssemblyInfo.cs
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/obj/Debug/netstandard2.0/GT.Geo.BLL.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/obj/Debug/netstandard2.0/GT.Geo.BLL.pdb

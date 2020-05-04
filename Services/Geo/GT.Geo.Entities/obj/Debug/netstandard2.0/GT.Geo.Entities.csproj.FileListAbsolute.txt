@@ -1,0 +1,12 @@
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/bin/Debug/netstandard2.0/GT.Geo.Entities.deps.json
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/bin/Debug/netstandard2.0/GT.Geo.Entities.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/bin/Debug/netstandard2.0/GT.Geo.Entities.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/bin/Debug/netstandard2.0/GT.Entities.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/bin/Debug/netstandard2.0/GT.Entities.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/obj/Debug/netstandard2.0/GT.Geo.Entities.csprojAssemblyReference.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/obj/Debug/netstandard2.0/GT.Geo.Entities.csproj.CoreCompileInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/obj/Debug/netstandard2.0/GT.Geo.Entities.AssemblyInfoInputs.cache
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/obj/Debug/netstandard2.0/GT.Geo.Entities.AssemblyInfo.cs
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/obj/Debug/netstandard2.0/GT.Geo.Entities.csproj.CopyComplete
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/obj/Debug/netstandard2.0/GT.Geo.Entities.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/obj/Debug/netstandard2.0/GT.Geo.Entities.pdb
