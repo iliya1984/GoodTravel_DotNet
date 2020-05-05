@@ -16,6 +16,8 @@
     <Content Include="Interfaces\MongoDB\Entities\DbContinent.cs" />
     <Content Include="Mongo\Repositories\ContinentMongoDBRepository.cs" />
     <Content Include="Mongo\Entities\DbContinent.cs" />
+    <Content Include="Mongo\Repositories\CountryMongoRepository.cs" />
+    <Content Include="Mongo\Entities\DBCountry.cs" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>

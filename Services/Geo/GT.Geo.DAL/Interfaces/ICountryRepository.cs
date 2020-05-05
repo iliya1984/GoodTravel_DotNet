@@ -5,7 +5,7 @@ using GT.Geo.Entities.Regions;
 
 namespace GT.Geo.DAL.Interfaces
 {
-    public interface ICountryRepository: IGetByFilterRepository<CountryFilter, Country>
+    public interface ICountryRepository: IGetByFilterAsyncRepository<CountryFilter, Country>
     {
          
     }

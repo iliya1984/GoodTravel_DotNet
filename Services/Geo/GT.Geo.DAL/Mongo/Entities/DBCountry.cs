@@ -3,7 +3,7 @@ using MongoDB.Bson.Serialization.Attributes;
 
 namespace GT.Geo.DAL.Mongo.Entities
 {
-    public class DbContinent
+    public class DBCountry
     {
         [BsonId]
         [BsonRepresentation(BsonType.ObjectId)]
@@ -16,5 +16,8 @@ namespace GT.Geo.DAL.Mongo.Entities
         [BsonElement("Name")]
         [BsonRequired]
         public string Name { get; set; }
+
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string ContinentId { get; set; }
     }
 }

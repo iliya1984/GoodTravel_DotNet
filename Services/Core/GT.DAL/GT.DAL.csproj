@@ -17,7 +17,6 @@
     <Content Include="Interfaces\Repositories\ICreateRepository.cs" />
     <Content Include="Interfaces\Repositories\IDeleteRepository.cs" />
     <Content Include="Interfaces\Repositories\IGetByFilterRepository.cs" />
-    <Content Include="Interfaces\Repositories\IGetAllRepository.cs" />
     <Content Include="Interfaces\Repositories\IUpdateRepository.cs" />
     <Content Include="Interfaces\Repositories\IRepository.cs" />
     <Content Include="Interfaces\Repositories\IGetByIdRepository.cs" />
@@ -31,6 +30,9 @@
     <Content Include="Interfaces\Mongo\IMongoDBClientFactory.cs" />
     <Content Include="Repositories\RepositoryRegistrationAttribute.cs" />
     <Content Include="DI\RepositoryRegistery.cs" />
+    <Content Include="Interfaces\Repositories\IGetAllAsyncRepository.cs" />
+    <Content Include="Interfaces\Repositories\IGetByFilterAsyncRepository.cs" />
+    <Content Include="Interfaces\Repositories\IGetByIdAsyncRepository.cs" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
