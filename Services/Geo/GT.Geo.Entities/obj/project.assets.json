@@ -35,6 +35,29 @@
         "runtime": {
           "bin/placeholder/GS.Core.Entities.dll": {}
         }
+      },
+      "GS.Core.Messaging.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GS.Core.Messaging.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GS.Core.Messaging.Entities.dll": {}
+        }
+      },
+      "GS.Logging.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "GS.Core.Messaging.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GS.Logging.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GS.Logging.Entities.dll": {}
+        }
       }
     }
   },
@@ -187,11 +210,22 @@
       "type": "project",
       "path": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj",
       "msbuildProject": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj"
+    },
+    "GS.Core.Messaging.Entities/1.0.0": {
+      "type": "project",
+      "path": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.Messaging/GS.Core.Messaging.Entities/GS.Core.Messaging.Entities.csproj",
+      "msbuildProject": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.Messaging/GS.Core.Messaging.Entities/GS.Core.Messaging.Entities.csproj"
+    },
+    "GS.Logging.Entities/1.0.0": {
+      "type": "project",
+      "path": "../../../../GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj",
+      "msbuildProject": "../../../../GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "GS.Core.Entities >= 1.0.0",
+      "GS.Logging.Entities >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -221,6 +255,9 @@
           "projectReferences": {
             "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj": {
               "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj"
+            },
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj"
             }
           }
         }

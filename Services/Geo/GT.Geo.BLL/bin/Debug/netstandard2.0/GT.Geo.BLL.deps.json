@@ -1458,6 +1458,8 @@
           "Autofac.Extensions.DependencyInjection": "6.0.0",
           "GS.Core.DAL": "1.0.0",
           "GS.Core.Entities": "1.0.0",
+          "GS.Logging.Client": "1.0.0",
+          "GS.Logging.Entities": "1.0.0",
           "GT.Geo.Entities": "1.0.0",
           "MongoDB.Driver": "2.10.3"
         },
@@ -1467,7 +1469,8 @@
       },
       "GT.Geo.Entities/1.0.0": {
         "dependencies": {
-          "GS.Core.Entities": "1.0.0"
+          "GS.Core.Entities": "1.0.0",
+          "GS.Logging.Entities": "1.0.0"
         },
         "runtime": {
           "GT.Geo.Entities.dll": {}

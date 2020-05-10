@@ -88,3 +88,4 @@
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/GT.Geo.BLL.pdb
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/GS.Core.DAL.pdb
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/GT.Geo.DAL.pdb
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config

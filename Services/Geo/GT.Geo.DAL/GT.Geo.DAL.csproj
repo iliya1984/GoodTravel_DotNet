@@ -4,6 +4,9 @@
     <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.Entities\GS.Core.Entities.csproj" />
     <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.DAL\GS.Core.DAL.csproj" />
     <ProjectReference Include="..\GT.Geo.Entities\GT.Geo.Entities.csproj" />
+     <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\Services\GS.Logging\GS.Logging.Client\GS.Logging.Client.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\Services\GS.Logging\GS.Logging.Entities\GS.Logging.Entities.csproj" />
+  
     <Content Include="Interfaces\IContinentRepository.cs" />
     <Content Include="Interfaces\ICountryRepository.cs" />
     <Content Include="Interfaces\ICitiesRepository.cs" />

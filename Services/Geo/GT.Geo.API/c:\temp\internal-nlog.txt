@@ -1,0 +1,934 @@
+2020-05-10 19:09:58.7597 Info Message Template Auto Format enabled
+2020-05-10 19:09:58.8441 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:09:58.9798 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:09:58.9875 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:09:59.0304 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:09:59.0694 Info Found 32 configuration items
+2020-05-10 19:09:59.1672 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:09:59.1692 Info Message Template Auto Format enabled
+2020-05-10 19:09:59.1692 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:09:59.1733 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:09:59.1733 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:09:59.1733 Info Closing old configuration.
+2020-05-10 19:09:59.1916 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:09:59.1941 Info Found 32 configuration items
+2020-05-10 19:09:59.2158 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:09:59.2255 Info Message Template Auto Format enabled
+2020-05-10 19:09:59.2255 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:09:59.2396 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:09:59.2465 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:09:59.2490 Info Closing old configuration.
+2020-05-10 19:09:59.2490 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:09:59.2490 Info Found 32 configuration items
+2020-05-10 19:09:59.2541 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:09:59.2541 Info Message Template Auto Format enabled
+2020-05-10 19:09:59.2541 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:09:59.2572 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:09:59.2572 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:09:59.2572 Info Closing old configuration.
+2020-05-10 19:09:59.2572 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:09:59.2572 Info Found 32 configuration items
+2020-05-10 19:10:00.1234 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:10:00.1271 Info Message Template Auto Format enabled
+2020-05-10 19:10:00.1289 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:10:00.1289 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:10:00.1327 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:10:00.1327 Info Closing old configuration.
+2020-05-10 19:10:00.1327 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:10:00.1327 Info Found 32 configuration items
+2020-05-10 19:10:00.1386 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:10:00.1454 Info Message Template Auto Format enabled
+2020-05-10 19:10:00.1454 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:10:00.1454 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:10:00.1495 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:10:00.1495 Info Closing old configuration.
+2020-05-10 19:10:00.1495 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:10:00.1495 Info Found 32 configuration items
+2020-05-10 19:10:00.3716 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:10:00.3765 Info Message Template Auto Format enabled
+2020-05-10 19:10:00.3765 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:10:00.3765 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:10:00.3838 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:10:00.3838 Info Closing old configuration.
+2020-05-10 19:10:00.3858 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:10:00.3902 Info Found 32 configuration items
+2020-05-10 19:10:00.3902 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:10:00.3989 Info Message Template Auto Format enabled
+2020-05-10 19:10:00.3989 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:10:00.4004 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:10:00.4004 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:10:00.4004 Info Closing old configuration.
+2020-05-10 19:10:00.4004 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:10:00.4004 Info Found 32 configuration items
+2020-05-10 19:10:00.4081 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:10:00.4125 Info Message Template Auto Format enabled
+2020-05-10 19:10:00.4125 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:10:00.4125 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:10:00.4125 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:10:00.4164 Info Closing old configuration.
+2020-05-10 19:10:00.4164 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:10:00.4164 Info Found 32 configuration items
+2020-05-10 19:10:00.4164 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:10:00.4237 Info Message Template Auto Format enabled
+2020-05-10 19:10:00.4237 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:10:00.4255 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:10:00.4291 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:10:00.4291 Info Closing old configuration.
+2020-05-10 19:10:00.4291 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:10:00.4291 Info Found 32 configuration items
+2020-05-10 19:10:00.5419 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:10:00.5419 Info Message Template Auto Format enabled
+2020-05-10 19:10:00.5452 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:10:00.5452 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:10:00.5495 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:10:00.5495 Info Closing old configuration.
+2020-05-10 19:10:00.5563 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:10:00.5570 Info Found 32 configuration items
+2020-05-10 19:10:00.5570 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:10:00.5639 Info Message Template Auto Format enabled
+2020-05-10 19:10:00.5639 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:10:00.5657 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:10:00.5657 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:10:00.5657 Info Closing old configuration.
+2020-05-10 19:10:00.5688 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:10:00.5731 Info Found 32 configuration items
+2020-05-10 19:11:57.1605 Info Message Template Auto Format enabled
+2020-05-10 19:11:57.1986 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:11:57.2872 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:11:57.2962 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:11:57.3602 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:11:57.4048 Info Found 32 configuration items
+2020-05-10 19:11:57.4862 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:11:57.4862 Info Message Template Auto Format enabled
+2020-05-10 19:11:57.4897 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:11:57.4897 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:11:57.4931 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:11:57.4971 Info Closing old configuration.
+2020-05-10 19:11:57.5104 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:11:57.5123 Info Found 32 configuration items
+2020-05-10 19:12:11.6908 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:12:11.6908 Info Message Template Auto Format enabled
+2020-05-10 19:12:11.6908 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:12:11.6908 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:12:11.6908 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:12:11.6908 Info Closing old configuration.
+2020-05-10 19:12:11.6964 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:12:11.6964 Info Found 32 configuration items
+2020-05-10 19:12:11.7058 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:12:11.7106 Info Message Template Auto Format enabled
+2020-05-10 19:12:11.7106 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:12:11.7106 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:12:11.7135 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:12:11.7135 Info Closing old configuration.
+2020-05-10 19:12:11.7135 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:12:11.7171 Info Found 32 configuration items
+2020-05-10 19:16:48.7659 Info Message Template Auto Format enabled
+2020-05-10 19:16:48.8302 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:48.9836 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:48.9889 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:49.0418 Info Found 32 configuration items
+2020-05-10 19:16:49.1480 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:49.1499 Info Message Template Auto Format enabled
+2020-05-10 19:16:49.1499 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:49.1556 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:49.1568 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:49.1568 Info Closing old configuration.
+2020-05-10 19:16:49.2116 Info Found 32 configuration items
+2020-05-10 19:16:49.2318 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:49.2340 Info Message Template Auto Format enabled
+2020-05-10 19:16:49.2340 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:49.2370 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:49.2370 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:49.2370 Info Closing old configuration.
+2020-05-10 19:16:49.2617 Info Found 32 configuration items
+2020-05-10 19:16:49.2617 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:49.2648 Info Message Template Auto Format enabled
+2020-05-10 19:16:49.2648 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:49.2648 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:49.2648 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:49.2648 Info Closing old configuration.
+2020-05-10 19:16:49.2910 Info Found 32 configuration items
+2020-05-10 19:16:50.6188 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:50.6244 Info Message Template Auto Format enabled
+2020-05-10 19:16:50.6389 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:50.6389 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:50.6493 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:50.6493 Info Closing old configuration.
+2020-05-10 19:16:50.6787 Info Found 32 configuration items
+2020-05-10 19:16:50.6832 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:50.6868 Info Message Template Auto Format enabled
+2020-05-10 19:16:50.6868 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:50.6868 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:50.6919 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:50.6978 Info Closing old configuration.
+2020-05-10 19:16:50.7260 Info Found 32 configuration items
+2020-05-10 19:16:51.1083 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:51.1142 Info Message Template Auto Format enabled
+2020-05-10 19:16:51.1142 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:51.1242 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:51.1251 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:51.1251 Info Closing old configuration.
+2020-05-10 19:16:51.1526 Info Found 32 configuration items
+2020-05-10 19:16:51.1559 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:51.1587 Info Message Template Auto Format enabled
+2020-05-10 19:16:51.1587 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:51.1613 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:51.1613 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:51.1613 Info Closing old configuration.
+2020-05-10 19:16:51.1873 Info Found 32 configuration items
+2020-05-10 19:16:51.1912 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:51.1912 Info Message Template Auto Format enabled
+2020-05-10 19:16:51.1938 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:51.1938 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:51.1977 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:51.1977 Info Closing old configuration.
+2020-05-10 19:16:51.2215 Info Found 32 configuration items
+2020-05-10 19:16:51.2215 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:51.2215 Info Message Template Auto Format enabled
+2020-05-10 19:16:51.2215 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:51.2215 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:51.2245 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:51.2245 Info Closing old configuration.
+2020-05-10 19:16:51.2508 Info Found 32 configuration items
+2020-05-10 19:16:51.4679 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:51.4799 Info Message Template Auto Format enabled
+2020-05-10 19:16:51.4815 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:51.4815 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:51.4878 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:51.4897 Info Closing old configuration.
+2020-05-10 19:16:51.5134 Info Found 32 configuration items
+2020-05-10 19:16:51.5134 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:16:51.5174 Info Message Template Auto Format enabled
+2020-05-10 19:16:51.5174 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:16:51.5174 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:16:51.5203 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:16:51.5203 Info Closing old configuration.
+2020-05-10 19:16:51.5446 Info Found 32 configuration items
+2020-05-10 19:18:26.7460 Info Message Template Auto Format enabled
+2020-05-10 19:18:26.7822 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:26.8542 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:26.8571 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:26.9013 Info Found 32 configuration items
+2020-05-10 19:18:26.9760 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:26.9779 Info Message Template Auto Format enabled
+2020-05-10 19:18:26.9803 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:26.9803 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:26.9803 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:26.9846 Info Closing old configuration.
+2020-05-10 19:18:27.0639 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:18:27.0820 Info Found 32 configuration items
+2020-05-10 19:18:27.1215 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:27.1244 Info Message Template Auto Format enabled
+2020-05-10 19:18:27.1244 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:27.1244 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:27.1293 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:27.1293 Info Closing old configuration.
+2020-05-10 19:18:27.1348 Info Found 32 configuration items
+2020-05-10 19:18:27.1593 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:27.1593 Info Message Template Auto Format enabled
+2020-05-10 19:18:27.1593 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:27.1593 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:27.1593 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:27.1593 Info Closing old configuration.
+2020-05-10 19:18:27.1624 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:18:27.1658 Info Found 32 configuration items
+2020-05-10 19:18:27.8572 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:27.8572 Info Message Template Auto Format enabled
+2020-05-10 19:18:27.8607 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:27.8607 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:27.8654 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:27.8654 Info Closing old configuration.
+2020-05-10 19:18:27.8736 Info Found 32 configuration items
+2020-05-10 19:18:27.8736 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:27.8819 Info Message Template Auto Format enabled
+2020-05-10 19:18:27.8819 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:27.8853 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:27.8889 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:27.8889 Info Closing old configuration.
+2020-05-10 19:18:27.8889 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:18:27.8939 Info Found 32 configuration items
+2020-05-10 19:18:28.1644 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:28.1706 Info Message Template Auto Format enabled
+2020-05-10 19:18:28.1706 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:28.1747 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:28.1768 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:28.1768 Info Closing old configuration.
+2020-05-10 19:18:28.1847 Info Found 32 configuration items
+2020-05-10 19:18:28.1847 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:28.1931 Info Message Template Auto Format enabled
+2020-05-10 19:18:28.1931 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:28.1931 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:28.1931 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:28.1969 Info Closing old configuration.
+2020-05-10 19:18:28.1969 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:18:28.1969 Info Found 32 configuration items
+2020-05-10 19:18:28.2123 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:28.2145 Info Message Template Auto Format enabled
+2020-05-10 19:18:28.2145 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:28.2190 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:28.2190 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:28.2205 Info Closing old configuration.
+2020-05-10 19:18:28.2205 Info Found 32 configuration items
+2020-05-10 19:18:28.2521 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:28.2521 Info Message Template Auto Format enabled
+2020-05-10 19:18:28.2521 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:28.2521 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:28.2551 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:28.2551 Info Closing old configuration.
+2020-05-10 19:18:28.2572 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:18:28.2572 Info Found 32 configuration items
+2020-05-10 19:18:28.4142 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:28.4214 Info Message Template Auto Format enabled
+2020-05-10 19:18:28.4297 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:28.4297 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:28.4297 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:28.4297 Info Closing old configuration.
+2020-05-10 19:18:28.4466 Info Found 32 configuration items
+2020-05-10 19:18:28.4755 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:18:28.4755 Info Message Template Auto Format enabled
+2020-05-10 19:18:28.4755 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:18:28.4784 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:18:28.4784 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:18:28.4784 Info Closing old configuration.
+2020-05-10 19:18:28.4820 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:18:28.5056 Info Found 32 configuration items
+2020-05-10 19:20:09.3102 Info Message Template Auto Format enabled
+2020-05-10 19:20:09.3556 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:09.4106 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:09.4129 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:09.4585 Info Found 32 configuration items
+2020-05-10 19:20:09.5688 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:09.5778 Info Message Template Auto Format enabled
+2020-05-10 19:20:09.5778 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:09.5831 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:09.5858 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:09.5858 Info Closing old configuration.
+2020-05-10 19:20:09.6370 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:20:09.6502 Info Found 32 configuration items
+2020-05-10 19:20:09.6805 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:09.6805 Info Message Template Auto Format enabled
+2020-05-10 19:20:09.6879 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:09.6892 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:09.6892 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:09.6892 Info Closing old configuration.
+2020-05-10 19:20:09.6985 Info Found 32 configuration items
+2020-05-10 19:20:09.7238 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:09.7238 Info Message Template Auto Format enabled
+2020-05-10 19:20:09.7238 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:09.7238 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:09.7273 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:09.7287 Info Closing old configuration.
+2020-05-10 19:20:09.7287 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:20:09.7519 Info Found 32 configuration items
+2020-05-10 19:20:10.5640 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:10.5688 Info Message Template Auto Format enabled
+2020-05-10 19:20:10.5688 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:10.5728 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:10.5782 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:10.5782 Info Closing old configuration.
+2020-05-10 19:20:10.5831 Info Found 32 configuration items
+2020-05-10 19:20:10.6095 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:10.6095 Info Message Template Auto Format enabled
+2020-05-10 19:20:10.6095 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:10.6095 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:10.6124 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:10.6124 Info Closing old configuration.
+2020-05-10 19:20:10.6124 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:20:10.6177 Info Found 32 configuration items
+2020-05-10 19:20:10.8077 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:10.8094 Info Message Template Auto Format enabled
+2020-05-10 19:20:10.8094 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:10.8134 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:10.8134 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:10.8134 Info Closing old configuration.
+2020-05-10 19:20:10.8198 Info Found 32 configuration items
+2020-05-10 19:20:10.8504 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:10.8504 Info Message Template Auto Format enabled
+2020-05-10 19:20:10.8504 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:10.8504 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:10.8504 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:10.8504 Info Closing old configuration.
+2020-05-10 19:20:10.8547 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:20:10.8771 Info Found 32 configuration items
+2020-05-10 19:20:10.8771 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:10.8771 Info Message Template Auto Format enabled
+2020-05-10 19:20:10.8771 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:10.8771 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:10.8771 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:10.8771 Info Closing old configuration.
+2020-05-10 19:20:10.8866 Info Found 32 configuration items
+2020-05-10 19:20:10.9147 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:10.9147 Info Message Template Auto Format enabled
+2020-05-10 19:20:10.9147 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:10.9147 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:10.9147 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:10.9147 Info Closing old configuration.
+2020-05-10 19:20:10.9207 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:20:10.9207 Info Found 32 configuration items
+2020-05-10 19:20:11.1274 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:11.1328 Info Message Template Auto Format enabled
+2020-05-10 19:20:11.1378 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:11.1378 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:11.1420 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:11.1420 Info Closing old configuration.
+2020-05-10 19:20:11.1470 Info Found 32 configuration items
+2020-05-10 19:20:11.1491 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 19:20:11.1534 Info Message Template Auto Format enabled
+2020-05-10 19:20:11.1534 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 19:20:11.1534 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 19:20:11.1595 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 19:20:11.1595 Info Closing old configuration.
+2020-05-10 19:20:11.1662 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 19:20:11.1662 Info Found 32 configuration items
+2020-05-10 23:33:54.5659 Info Message Template Auto Format enabled
+2020-05-10 23:33:54.6145 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:54.8011 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:54.8011 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:54.8861 Info Found 32 configuration items
+2020-05-10 23:33:55.0951 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:55.1057 Info Message Template Auto Format enabled
+2020-05-10 23:33:55.1057 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:55.1095 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:55.1153 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:55.1153 Info Closing old configuration.
+2020-05-10 23:33:55.2002 Info Found 32 configuration items
+2020-05-10 23:33:55.2319 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:55.2333 Info Message Template Auto Format enabled
+2020-05-10 23:33:55.2333 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:55.2333 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:55.2333 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:55.2333 Info Closing old configuration.
+2020-05-10 23:33:55.2597 Info Found 32 configuration items
+2020-05-10 23:33:55.2630 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:55.2646 Info Message Template Auto Format enabled
+2020-05-10 23:33:55.2646 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:55.2646 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:55.2646 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:55.2646 Info Closing old configuration.
+2020-05-10 23:33:55.2929 Info Found 32 configuration items
+2020-05-10 23:33:56.4669 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:56.4690 Info Message Template Auto Format enabled
+2020-05-10 23:33:56.4690 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:56.4734 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:56.4734 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:56.4776 Info Closing old configuration.
+2020-05-10 23:33:56.5022 Info Found 32 configuration items
+2020-05-10 23:33:56.5022 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:56.5022 Info Message Template Auto Format enabled
+2020-05-10 23:33:56.5022 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:56.5022 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:56.5131 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:56.5131 Info Closing old configuration.
+2020-05-10 23:33:56.5446 Info Found 32 configuration items
+2020-05-10 23:33:56.8530 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:56.8530 Info Message Template Auto Format enabled
+2020-05-10 23:33:56.8579 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:56.8653 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:56.8696 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:56.8696 Info Closing old configuration.
+2020-05-10 23:33:56.8966 Info Found 32 configuration items
+2020-05-10 23:33:56.8966 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:56.9030 Info Message Template Auto Format enabled
+2020-05-10 23:33:56.9030 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:56.9030 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:56.9030 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:56.9094 Info Closing old configuration.
+2020-05-10 23:33:56.9487 Info Found 32 configuration items
+2020-05-10 23:33:56.9556 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:56.9684 Info Message Template Auto Format enabled
+2020-05-10 23:33:56.9703 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:56.9785 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:56.9785 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:56.9785 Info Closing old configuration.
+2020-05-10 23:33:57.0032 Info Found 32 configuration items
+2020-05-10 23:33:57.0054 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:57.0054 Info Message Template Auto Format enabled
+2020-05-10 23:33:57.0054 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:57.0054 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:57.0054 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:57.0087 Info Closing old configuration.
+2020-05-10 23:33:57.0332 Info Found 32 configuration items
+2020-05-10 23:33:57.2507 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:57.2582 Info Message Template Auto Format enabled
+2020-05-10 23:33:57.2621 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:57.2621 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:57.2679 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:57.2679 Info Closing old configuration.
+2020-05-10 23:33:57.2917 Info Found 32 configuration items
+2020-05-10 23:33:57.2937 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:33:57.2937 Info Message Template Auto Format enabled
+2020-05-10 23:33:57.2937 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:33:57.2937 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:33:57.2971 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:33:57.2971 Info Closing old configuration.
+2020-05-10 23:33:57.3238 Info Found 32 configuration items
+2020-05-10 23:38:43.7704 Info Message Template Auto Format enabled
+2020-05-10 23:38:43.7935 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:43.8446 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:43.8446 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:43.8995 Info Found 32 configuration items
+2020-05-10 23:38:43.9939 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:43.9989 Info Message Template Auto Format enabled
+2020-05-10 23:38:43.9989 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:44.0026 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:44.0026 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:44.0066 Info Closing old configuration.
+2020-05-10 23:38:44.0419 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 23:38:44.0592 Info Found 32 configuration items
+2020-05-10 23:38:44.1501 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:44.1501 Info Message Template Auto Format enabled
+2020-05-10 23:38:44.1525 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:44.1525 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:44.1525 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:44.1525 Info Closing old configuration.
+2020-05-10 23:38:44.1646 Info Found 32 configuration items
+2020-05-10 23:38:44.1662 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:44.1662 Info Message Template Auto Format enabled
+2020-05-10 23:38:44.1726 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:44.1726 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:44.1776 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:44.1776 Info Closing old configuration.
+2020-05-10 23:38:44.1776 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 23:38:44.1776 Info Found 32 configuration items
+2020-05-10 23:38:44.9807 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:44.9923 Info Message Template Auto Format enabled
+2020-05-10 23:38:44.9923 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:44.9923 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:44.9923 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:44.9923 Info Closing old configuration.
+2020-05-10 23:38:45.0030 Info Found 32 configuration items
+2020-05-10 23:38:45.0211 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:45.0211 Info Message Template Auto Format enabled
+2020-05-10 23:38:45.0211 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:45.0211 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:45.0211 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:45.0211 Info Closing old configuration.
+2020-05-10 23:38:45.0211 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 23:38:45.0335 Info Found 32 configuration items
+2020-05-10 23:38:45.4608 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:45.4608 Info Message Template Auto Format enabled
+2020-05-10 23:38:45.4608 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:45.4665 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:45.4665 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:45.4693 Info Closing old configuration.
+2020-05-10 23:38:45.4732 Info Found 32 configuration items
+2020-05-10 23:38:45.4732 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:45.4812 Info Message Template Auto Format enabled
+2020-05-10 23:38:45.4812 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:45.4812 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:45.4872 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:45.4872 Info Closing old configuration.
+2020-05-10 23:38:45.4886 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 23:38:45.4886 Info Found 32 configuration items
+2020-05-10 23:38:45.5028 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:45.5028 Info Message Template Auto Format enabled
+2020-05-10 23:38:45.5048 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:45.5048 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:45.5048 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:45.5048 Info Closing old configuration.
+2020-05-10 23:38:45.5159 Info Found 32 configuration items
+2020-05-10 23:38:45.5179 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:45.5238 Info Message Template Auto Format enabled
+2020-05-10 23:38:45.5238 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:45.5252 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:45.5388 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:45.5388 Info Closing old configuration.
+2020-05-10 23:38:45.5410 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 23:38:45.5410 Info Found 32 configuration items
+2020-05-10 23:38:45.7587 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:45.7634 Info Message Template Auto Format enabled
+2020-05-10 23:38:45.7649 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:45.7649 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:45.7701 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:45.7701 Info Closing old configuration.
+2020-05-10 23:38:45.7775 Info Found 32 configuration items
+2020-05-10 23:38:45.7852 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:38:45.7852 Info Message Template Auto Format enabled
+2020-05-10 23:38:45.7852 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:38:45.7930 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:38:45.7930 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:38:45.7967 Info Closing old configuration.
+2020-05-10 23:38:45.7967 Error Failed Watching path '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1' with file '/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config' for changes. Exception: System.IO.IOException: The configured user limit (128) on the number of inotify instances has been reached, or the per-process limit on the number of open file descriptors has been reached.
+   at System.IO.FileSystemWatcher.StartRaisingEvents()
+   at System.IO.FileSystemWatcher.StartRaisingEventsIfNotDisposed()
+   at System.IO.FileSystemWatcher.set_EnableRaisingEvents(Boolean value)
+   at NLog.Internal.MultiFileWatcher.Watch(String fileName)
+2020-05-10 23:38:45.7967 Info Found 32 configuration items
+2020-05-10 23:43:13.4538 Info Message Template Auto Format enabled
+2020-05-10 23:43:13.4907 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:13.5426 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:13.5449 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:13.5784 Info Found 32 configuration items
+2020-05-10 23:43:13.6706 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:13.6724 Info Message Template Auto Format enabled
+2020-05-10 23:43:13.6724 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:13.6724 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:13.6854 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:13.6854 Info Closing old configuration.
+2020-05-10 23:43:13.7356 Info Found 32 configuration items
+2020-05-10 23:43:13.8308 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:13.8308 Info Message Template Auto Format enabled
+2020-05-10 23:43:13.8330 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:13.8330 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:13.8330 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:13.8330 Info Closing old configuration.
+2020-05-10 23:43:13.8609 Info Found 32 configuration items
+2020-05-10 23:43:13.8609 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:13.8609 Info Message Template Auto Format enabled
+2020-05-10 23:43:13.8609 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:13.8742 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:13.8742 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:13.8742 Info Closing old configuration.
+2020-05-10 23:43:13.8993 Info Found 32 configuration items
+2020-05-10 23:43:14.5600 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:14.5617 Info Message Template Auto Format enabled
+2020-05-10 23:43:14.5617 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:14.5654 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:14.5654 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:14.5654 Info Closing old configuration.
+2020-05-10 23:43:14.5768 Info Found 32 configuration items
+2020-05-10 23:43:14.5768 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:14.5851 Info Message Template Auto Format enabled
+2020-05-10 23:43:14.5863 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:14.5863 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:14.5863 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:14.5892 Info Closing old configuration.
+2020-05-10 23:43:14.6127 Info Found 32 configuration items
+2020-05-10 23:43:14.9469 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:14.9504 Info Message Template Auto Format enabled
+2020-05-10 23:43:14.9504 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:14.9573 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:14.9636 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:14.9636 Info Closing old configuration.
+2020-05-10 23:43:14.9656 Info Found 32 configuration items
+2020-05-10 23:43:14.9903 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:14.9903 Info Message Template Auto Format enabled
+2020-05-10 23:43:14.9903 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:14.9903 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:14.9903 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:14.9903 Info Closing old configuration.
+2020-05-10 23:43:15.0151 Info Found 32 configuration items
+2020-05-10 23:43:15.0198 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:15.0213 Info Message Template Auto Format enabled
+2020-05-10 23:43:15.0213 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:15.0213 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:15.0250 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:15.0294 Info Closing old configuration.
+2020-05-10 23:43:15.0546 Info Found 32 configuration items
+2020-05-10 23:43:15.0546 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:15.0546 Info Message Template Auto Format enabled
+2020-05-10 23:43:15.0546 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:15.0627 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:15.0627 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:15.0645 Info Closing old configuration.
+2020-05-10 23:43:15.0911 Info Found 32 configuration items
+2020-05-10 23:43:15.2745 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:15.2776 Info Message Template Auto Format enabled
+2020-05-10 23:43:15.2776 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:15.2812 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:15.2812 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:15.2981 Info Closing old configuration.
+2020-05-10 23:43:15.3255 Info Found 32 configuration items
+2020-05-10 23:43:15.3255 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:43:15.3255 Info Message Template Auto Format enabled
+2020-05-10 23:43:15.3255 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:43:15.3255 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:43:15.3255 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:43:15.3255 Info Closing old configuration.
+2020-05-10 23:43:15.3635 Info Found 32 configuration items
+2020-05-10 23:46:32.7417 Info Message Template Auto Format enabled
+2020-05-10 23:46:32.7751 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:32.8583 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:32.8583 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:32.9413 Info Found 32 configuration items
+2020-05-10 23:46:33.0144 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:33.0167 Info Message Template Auto Format enabled
+2020-05-10 23:46:33.0167 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:33.0167 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:33.0217 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:33.0217 Info Closing old configuration.
+2020-05-10 23:46:33.0504 Info Found 32 configuration items
+2020-05-10 23:46:33.1653 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:33.1653 Info Message Template Auto Format enabled
+2020-05-10 23:46:33.1689 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:33.1689 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:33.1729 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:33.1729 Info Closing old configuration.
+2020-05-10 23:46:33.1964 Info Found 32 configuration items
+2020-05-10 23:46:33.2013 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:33.2013 Info Message Template Auto Format enabled
+2020-05-10 23:46:33.2013 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:33.2013 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:33.2050 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:33.2050 Info Closing old configuration.
+2020-05-10 23:46:33.2302 Info Found 32 configuration items
+2020-05-10 23:46:33.8773 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:33.8773 Info Message Template Auto Format enabled
+2020-05-10 23:46:33.8773 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:33.8824 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:33.8824 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:33.8860 Info Closing old configuration.
+2020-05-10 23:46:33.9128 Info Found 32 configuration items
+2020-05-10 23:46:33.9128 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:33.9128 Info Message Template Auto Format enabled
+2020-05-10 23:46:33.9128 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:33.9128 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:33.9128 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:33.9128 Info Closing old configuration.
+2020-05-10 23:46:33.9447 Info Found 32 configuration items
+2020-05-10 23:46:34.1750 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:34.1933 Info Message Template Auto Format enabled
+2020-05-10 23:46:34.1933 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:34.1973 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:34.2066 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:34.2066 Info Closing old configuration.
+2020-05-10 23:46:34.2311 Info Found 32 configuration items
+2020-05-10 23:46:34.2348 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:34.2348 Info Message Template Auto Format enabled
+2020-05-10 23:46:34.2366 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:34.2366 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:34.2409 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:34.2409 Info Closing old configuration.
+2020-05-10 23:46:34.2647 Info Found 32 configuration items
+2020-05-10 23:46:34.2677 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:34.2677 Info Message Template Auto Format enabled
+2020-05-10 23:46:34.2677 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:34.2695 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:34.2695 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:34.2801 Info Closing old configuration.
+2020-05-10 23:46:34.3039 Info Found 32 configuration items
+2020-05-10 23:46:34.3055 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:34.3055 Info Message Template Auto Format enabled
+2020-05-10 23:46:34.3055 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:34.3055 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:34.3055 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:34.3055 Info Closing old configuration.
+2020-05-10 23:46:34.3302 Info Found 32 configuration items
+2020-05-10 23:46:34.5076 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:34.5175 Info Message Template Auto Format enabled
+2020-05-10 23:46:34.5175 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:34.5208 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:34.5208 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:34.5258 Info Closing old configuration.
+2020-05-10 23:46:34.5501 Info Found 32 configuration items
+2020-05-10 23:46:34.5501 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:46:34.5501 Info Message Template Auto Format enabled
+2020-05-10 23:46:34.5501 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:46:34.5581 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:46:34.5581 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:46:34.5581 Info Closing old configuration.
+2020-05-10 23:46:34.5889 Info Found 32 configuration items
+2020-05-10 23:54:23.0805 Info Message Template Auto Format enabled
+2020-05-10 23:54:23.1108 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:23.1997 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:23.2096 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:23.2920 Info Found 32 configuration items
+2020-05-10 23:54:23.4048 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:23.4077 Info Message Template Auto Format enabled
+2020-05-10 23:54:23.4077 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:23.4077 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:23.4131 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:23.4182 Info Closing old configuration.
+2020-05-10 23:54:23.4615 Info Found 32 configuration items
+2020-05-10 23:54:23.6190 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:23.6190 Info Message Template Auto Format enabled
+2020-05-10 23:54:23.6213 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:23.6213 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:23.6213 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:23.6213 Info Closing old configuration.
+2020-05-10 23:54:23.6493 Info Found 32 configuration items
+2020-05-10 23:54:23.6493 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:23.6493 Info Message Template Auto Format enabled
+2020-05-10 23:54:23.6493 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:23.6493 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:23.6493 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:23.6493 Info Closing old configuration.
+2020-05-10 23:54:23.6792 Info Found 32 configuration items
+2020-05-10 23:54:24.7321 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:24.7338 Info Message Template Auto Format enabled
+2020-05-10 23:54:24.7338 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:24.7371 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:24.7371 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:24.7371 Info Closing old configuration.
+2020-05-10 23:54:24.7636 Info Found 32 configuration items
+2020-05-10 23:54:24.7680 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:24.7699 Info Message Template Auto Format enabled
+2020-05-10 23:54:24.7699 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:24.7733 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:24.7733 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:24.7733 Info Closing old configuration.
+2020-05-10 23:54:24.8118 Info Found 32 configuration items
+2020-05-10 23:54:25.1660 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:25.1703 Info Message Template Auto Format enabled
+2020-05-10 23:54:25.1703 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:25.1739 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:25.1739 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:25.1771 Info Closing old configuration.
+2020-05-10 23:54:25.2011 Info Found 32 configuration items
+2020-05-10 23:54:25.2045 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:25.2045 Info Message Template Auto Format enabled
+2020-05-10 23:54:25.2045 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:25.2045 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:25.2138 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:25.2138 Info Closing old configuration.
+2020-05-10 23:54:25.2377 Info Found 32 configuration items
+2020-05-10 23:54:25.2377 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:25.2377 Info Message Template Auto Format enabled
+2020-05-10 23:54:25.2377 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:25.2377 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:25.2434 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:25.2451 Info Closing old configuration.
+2020-05-10 23:54:25.2496 Info Found 32 configuration items
+2020-05-10 23:54:25.2588 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:25.2660 Info Message Template Auto Format enabled
+2020-05-10 23:54:25.2660 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:25.2660 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:25.2660 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:25.2696 Info Closing old configuration.
+2020-05-10 23:54:25.2938 Info Found 32 configuration items
+2020-05-10 23:54:25.4418 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:25.4418 Info Message Template Auto Format enabled
+2020-05-10 23:54:25.4455 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:25.4455 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:25.4490 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:25.4490 Info Closing old configuration.
+2020-05-10 23:54:25.4743 Info Found 32 configuration items
+2020-05-10 23:54:25.4743 Info Configuring from an XML element in /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/bin/Debug/netcoreapp3.1/nlog.config...
+2020-05-10 23:54:25.4783 Info Message Template Auto Format enabled
+2020-05-10 23:54:25.4783 Info Loading assembly: NLog.Web.AspNetCore
+2020-05-10 23:54:25.4783 Info Adding target FileTarget(Name=coreLogs)
+2020-05-10 23:54:25.4783 Info Adding target FileTarget(Name=messagingLogs)
+2020-05-10 23:54:25.4783 Info Closing old configuration.
+2020-05-10 23:54:25.5052 Info Found 32 configuration items

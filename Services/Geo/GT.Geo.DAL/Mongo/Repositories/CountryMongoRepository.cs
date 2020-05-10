@@ -5,8 +5,10 @@ using System.Threading.Tasks;
 using GS.Core.DAL.Entities.Results;
 using GS.Core.DAL.Mongo;
 using GS.Core.DAL.Repositories;
+using GS.Logging.Entities;
 using GT.Geo.DAL.Interfaces;
 using GT.Geo.DAL.Mongo.Entities;
+using GT.Geo.Entities.Common;
 using GT.Geo.Entities.Filters.Regions;
 using GT.Geo.Entities.Regions;
 using MongoDB.Bson;
@@ -15,6 +17,7 @@ using MongoDB.Driver;
 namespace GT.Geo.DAL.Mongo.Repositories
 {
     [RepositoryRegistration(typeof(ICountryRepository))]
+    [GeoLoggable(ELogs.Layer.Repository)]
     internal class CountryMongoRepository : MongoDBRepository<DbCountry>, ICountryRepository
     {
         private const string CollectionName  = "Countries";
@@ -32,15 +35,16 @@ namespace GT.Geo.DAL.Mongo.Repositories
                     { "ContinentId", new ObjectId(filter.ContinentId.ToString()) }
                 };
 
-                var dbCountries  = await Collection.FindAsync(bson);
+                var asyncCursor = await Collection.FindAsync(bson);
 
+                var dbCountries  = asyncCursor.ToList();
+                
                 if(dbCountries == null || false == dbCountries.Any())
                 {
                     return new DataGetResult<Country>();
                 }
 
                 var entities = dbCountries
-                    .ToEnumerable()
                     .AsQueryable()
                     .Select(c => mapToEntity(c))
                     .ToList();

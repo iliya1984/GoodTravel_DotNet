@@ -10,6 +10,7 @@
       "GT.Geo.Entities/1.0.0": {
         "dependencies": {
           "GS.Core.Entities": "1.0.0",
+          "GS.Logging.Entities": "1.0.0",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -25,6 +26,19 @@
       "GS.Core.Entities/1.0.0": {
         "runtime": {
           "GS.Core.Entities.dll": {}
+        }
+      },
+      "GS.Core.Messaging.Entities/1.0.0": {
+        "runtime": {
+          "GS.Core.Messaging.Entities.dll": {}
+        }
+      },
+      "GS.Logging.Entities/1.0.0": {
+        "dependencies": {
+          "GS.Core.Messaging.Entities": "1.0.0"
+        },
+        "runtime": {
+          "GS.Logging.Entities.dll": {}
         }
       }
     }
@@ -50,6 +64,16 @@
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
     "GS.Core.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GS.Core.Messaging.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GS.Logging.Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -10,10 +10,13 @@ using GT.Geo.DAL.Mongo.Entities;
 using GT.Geo.Entities.Regions;
 using MongoDB.Driver;
 using GS.Core.DAL.Entities.Results;
+using GT.Geo.Entities.Common;
+using GS.Logging.Entities;
 
 namespace GT.Geo.DAL.Mongo.Repositories
 {
-     [RepositoryRegistration(typeof(IContinentRepository))]
+    [RepositoryRegistration(typeof(IContinentRepository))]
+    [GeoLoggable(ELogs.Layer.Repository)]
     internal class ContinentMongoRepository : MongoDBRepository<DbContinent>, IContinentRepository
     {
         private const string CollectionName  = "Continents";
@@ -26,14 +29,17 @@ namespace GT.Geo.DAL.Mongo.Repositories
         {
             try
             {
-                var dbContinents = await Collection.FindAsync(f => true);
+                var asyncCursour = await Collection.FindAsync(f => true);
                 
+                var dbContinents = asyncCursour.ToList();
+                
+
                 if(dbContinents == null || false == dbContinents.Any())
                 {
                     return new DataGetResult<Continent>();
                 }
 
-                var entities = dbContinents.ToEnumerable().Select(c => mapToEntity(c));
+                var entities = dbContinents.Select(c => mapToEntity(c)).ToList();
                 return new DataGetResult<Continent>(entities);
 
             }

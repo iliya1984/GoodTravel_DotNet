@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2Gb23zzF6RZjbWIfb3F79OX9z46JDkM/6+1ItoHgNwheaIsS5rtL4UmJP/Ka4IKZmdd2YMpl8yd4IS8yaxKnjg==",
+  "dgSpecHash": "vRlr9GunBjkUfVhUjnBlSWifo1AiPHuivKZ6VLl6OzcfZvGK0g9tf2sw2ORKPZS8hxXtJ6wnOBwL+t82Uu7cJA==",
   "success": true,
   "projectFilePath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.API/GT.Geo.API.csproj",
   "expectedPackageFiles": [

@@ -2045,7 +2045,8 @@
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "GS.Core.Entities": "1.0.0"
+          "GS.Core.Entities": "1.0.0",
+          "GS.Logging.Entities": "1.0.0"
         },
         "compile": {
           "bin/placeholder/GT.Geo.Entities.dll": {}
@@ -6474,6 +6475,8 @@
       "Autofac.Extensions.DependencyInjection >= 6.0.0",
       "GS.Core.DAL >= 1.0.0",
       "GS.Core.Entities >= 1.0.0",
+      "GS.Logging.Client >= 1.0.0",
+      "GS.Logging.Entities >= 1.0.0",
       "GT.Geo.Entities >= 1.0.0",
       "MongoDB.Driver >= 2.10.3",
       "NETStandard.Library >= 2.0.3"
@@ -6508,6 +6511,12 @@
             },
             "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj": {
               "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj"
+            },
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Client/GS.Logging.Client.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Client/GS.Logging.Client.csproj"
+            },
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj"
             },
             "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/GT.Geo.Entities.csproj": {
               "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/GT.Geo.Entities.csproj"
