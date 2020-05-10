@@ -7,6 +7,6 @@ namespace GT.Geo.Entities.Regions
     {
         public string CountryId { get; set; }
 
-        public City() : base(EGeo.EntityType.City) {}
+        public City(string id) : base(EGeo.EntityType.City, id) {}
     }
 }

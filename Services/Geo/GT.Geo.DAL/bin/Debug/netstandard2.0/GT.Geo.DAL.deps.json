@@ -9,9 +9,11 @@
     ".NETStandard,Version=v2.0/": {
       "GT.Geo.DAL/1.0.0": {
         "dependencies": {
-          "GT.DAL": "1.0.0",
-          "GT.Entities": "1.0.0",
+          "Autofac.Extensions.DependencyInjection": "6.0.0",
+          "GS.Core.DAL": "1.0.0",
+          "GS.Core.Entities": "1.0.0",
           "GT.Geo.Entities": "1.0.0",
+          "MongoDB.Driver": "2.10.3",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -1366,6 +1368,23 @@
           }
         }
       },
+      "GS.Core.DAL/1.0.0": {
+        "dependencies": {
+          "Autofac.Extensions.DependencyInjection": "6.0.0",
+          "GS.Core.Entities": "1.0.0",
+          "GS.Logging.Client": "1.0.0",
+          "GS.Logging.Entities": "1.0.0",
+          "MongoDB.Driver": "2.10.3"
+        },
+        "runtime": {
+          "GS.Core.DAL.dll": {}
+        }
+      },
+      "GS.Core.Entities/1.0.0": {
+        "runtime": {
+          "GS.Core.Entities.dll": {}
+        }
+      },
       "GS.Core.Helpers/1.0.0": {
         "dependencies": {
           "Autofac.Extensions.DependencyInjection": "6.0.0"
@@ -1424,26 +1443,9 @@
           "GS.Logging.Entities.dll": {}
         }
       },
-      "GT.DAL/1.0.0": {
-        "dependencies": {
-          "Autofac.Extensions.DependencyInjection": "6.0.0",
-          "GS.Logging.Client": "1.0.0",
-          "GS.Logging.Entities": "1.0.0",
-          "GT.Entities": "1.0.0",
-          "MongoDB.Driver": "2.10.3"
-        },
-        "runtime": {
-          "GT.DAL.dll": {}
-        }
-      },
-      "GT.Entities/1.0.0": {
-        "runtime": {
-          "GT.Entities.dll": {}
-        }
-      },
       "GT.Geo.Entities/1.0.0": {
         "dependencies": {
-          "GT.Entities": "1.0.0"
+          "GS.Core.Entities": "1.0.0"
         },
         "runtime": {
           "GT.Geo.Entities.dll": {}
@@ -2297,6 +2299,16 @@
       "path": "system.threading.threadpool/4.3.0",
       "hashPath": "system.threading.threadpool.4.3.0.nupkg.sha512"
     },
+    "GS.Core.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GS.Core.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "GS.Core.Helpers/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -2323,16 +2335,6 @@
       "sha512": ""
     },
     "GS.Logging.Entities/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "GT.DAL/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "GT.Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

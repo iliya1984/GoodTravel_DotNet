@@ -4,6 +4,6 @@ namespace GT.Geo.Entities.Regions
 {
     public class Continent : GeoEntity
     {
-         public Continent() : base(EGeo.EntityType.Continent) {}
+         public Continent(string id) : base(EGeo.EntityType.Continent, id) {}
     }
 }

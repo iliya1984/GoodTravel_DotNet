@@ -1,7 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
-
+  <ItemGroup>
+    <Content Include="Interfaces\IContinentsService.cs" />
+    <Content Include="Services\ContinentsService.cs" />
+     <ProjectReference Include="..\..\Core\GT.DAL\GT.DAL.csproj" />
+    <ProjectReference Include="..\..\Core\GT.Entities\GT.Entities.csproj" />
+    <ProjectReference Include="..\GT.Geo.Entities\GT.Geo.Entities.csproj" />
+    <ProjectReference Include="..\GT.Geo.DAL\GT.Geo.DAL.csproj" />
+  </ItemGroup>
 </Project>

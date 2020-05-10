@@ -1926,6 +1926,33 @@
           "lib/netstandard1.3/System.Threading.ThreadPool.dll": {}
         }
       },
+      "GS.Core.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "Autofac.Extensions.DependencyInjection": "6.0.0",
+          "GS.Core.Entities": "1.0.0",
+          "GS.Logging.Client": "1.0.0",
+          "GS.Logging.Entities": "1.0.0",
+          "MongoDB.Driver": "2.10.3"
+        },
+        "compile": {
+          "bin/placeholder/GS.Core.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GS.Core.DAL.dll": {}
+        }
+      },
+      "GS.Core.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GS.Core.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GS.Core.Entities.dll": {}
+        }
+      },
       "GS.Core.Helpers/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -2014,38 +2041,11 @@
           "bin/placeholder/GS.Logging.Entities.dll": {}
         }
       },
-      "GT.DAL/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "dependencies": {
-          "Autofac.Extensions.DependencyInjection": "6.0.0",
-          "GS.Logging.Client": "1.0.0",
-          "GS.Logging.Entities": "1.0.0",
-          "GT.Entities": "1.0.0",
-          "MongoDB.Driver": "2.10.3"
-        },
-        "compile": {
-          "bin/placeholder/GT.DAL.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/GT.DAL.dll": {}
-        }
-      },
-      "GT.Entities/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/GT.Entities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/GT.Entities.dll": {}
-        }
-      },
       "GT.Geo.Entities/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "GT.Entities": "1.0.0"
+          "GS.Core.Entities": "1.0.0"
         },
         "compile": {
           "bin/placeholder/GT.Geo.Entities.dll": {}
@@ -6423,6 +6423,16 @@
         "system.threading.threadpool.nuspec"
       ]
     },
+    "GS.Core.DAL/1.0.0": {
+      "type": "project",
+      "path": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.DAL/GS.Core.DAL.csproj",
+      "msbuildProject": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.DAL/GS.Core.DAL.csproj"
+    },
+    "GS.Core.Entities/1.0.0": {
+      "type": "project",
+      "path": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj",
+      "msbuildProject": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj"
+    },
     "GS.Core.Helpers/1.0.0": {
       "type": "project",
       "path": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.Helpers/GS.Core.Helpers.csproj",
@@ -6453,16 +6463,6 @@
       "path": "../../../../GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj",
       "msbuildProject": "../../../../GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj"
     },
-    "GT.DAL/1.0.0": {
-      "type": "project",
-      "path": "../../Core/GT.DAL/GT.DAL.csproj",
-      "msbuildProject": "../../Core/GT.DAL/GT.DAL.csproj"
-    },
-    "GT.Entities/1.0.0": {
-      "type": "project",
-      "path": "../../Core/GT.Entities/GT.Entities.csproj",
-      "msbuildProject": "../../Core/GT.Entities/GT.Entities.csproj"
-    },
     "GT.Geo.Entities/1.0.0": {
       "type": "project",
       "path": "../GT.Geo.Entities/GT.Geo.Entities.csproj",
@@ -6471,9 +6471,11 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "GT.DAL >= 1.0.0",
-      "GT.Entities >= 1.0.0",
+      "Autofac.Extensions.DependencyInjection >= 6.0.0",
+      "GS.Core.DAL >= 1.0.0",
+      "GS.Core.Entities >= 1.0.0",
       "GT.Geo.Entities >= 1.0.0",
+      "MongoDB.Driver >= 2.10.3",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -6501,11 +6503,11 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/GT.DAL.csproj": {
-              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.DAL/GT.DAL.csproj"
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.DAL/GS.Core.DAL.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.DAL/GS.Core.DAL.csproj"
             },
-            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj": {
-              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj"
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj"
             },
             "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/GT.Geo.Entities.csproj": {
               "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/GT.Geo.Entities.csproj"
@@ -6522,6 +6524,14 @@
     "frameworks": {
       "netstandard2.0": {
         "dependencies": {
+          "Autofac.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          },
+          "MongoDB.Driver": {
+            "target": "Package",
+            "version": "[2.10.3, )"
+          },
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",

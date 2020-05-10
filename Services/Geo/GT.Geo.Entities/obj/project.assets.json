@@ -26,14 +26,14 @@
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
       },
-      "GT.Entities/1.0.0": {
+      "GS.Core.Entities/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "compile": {
-          "bin/placeholder/GT.Entities.dll": {}
+          "bin/placeholder/GS.Core.Entities.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GT.Entities.dll": {}
+          "bin/placeholder/GS.Core.Entities.dll": {}
         }
       }
     }
@@ -183,15 +183,15 @@
         "netstandard.library.nuspec"
       ]
     },
-    "GT.Entities/1.0.0": {
+    "GS.Core.Entities/1.0.0": {
       "type": "project",
-      "path": "../../Core/GT.Entities/GT.Entities.csproj",
-      "msbuildProject": "../../Core/GT.Entities/GT.Entities.csproj"
+      "path": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj",
+      "msbuildProject": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "GT.Entities >= 1.0.0",
+      "GS.Core.Entities >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
     ]
   },
@@ -219,8 +219,8 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj": {
-              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj"
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj"
             }
           }
         }

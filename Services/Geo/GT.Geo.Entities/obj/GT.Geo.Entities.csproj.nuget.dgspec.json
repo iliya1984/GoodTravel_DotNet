@@ -4,14 +4,14 @@
     "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.Entities/GT.Geo.Entities.csproj": {}
   },
   "projects": {
-    "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj": {
+    "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj",
-        "projectName": "GT.Entities",
-        "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj",
+        "projectUniqueName": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj",
+        "projectName": "GS.Core.Entities",
+        "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj",
         "packagesPath": "/home/ilya/.nuget/packages/",
-        "outputPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/obj/",
+        "outputPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ilya/.nuget/NuGet/NuGet.Config"
@@ -78,8 +78,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj": {
-                "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj"
+              "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj": {
+                "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj"
               }
             }
           }

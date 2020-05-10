@@ -3,7 +3,7 @@ using GT.Entities.Enums;
 
 namespace GT.Entities.Entities
 {
-    public abstract class TravelEntity: Entity
+    public abstract class TravelEntity
     {
         public ETravel.EntityType TravelType { get; set;}
         public DateTime FromDate { get; set; }

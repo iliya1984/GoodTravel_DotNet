@@ -1,4 +1,4 @@
-using GT.Entities.Interfaces;
+using GS.Core.Entities.Interfaces;
 using GT.Geo;
 
 namespace GT.Geo.Entities.Interfaces

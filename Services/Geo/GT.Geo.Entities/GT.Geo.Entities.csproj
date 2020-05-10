@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\GT.Entities\GT.Entities.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.Entities\GS.Core.Entities.csproj" />
     <Content Include="Interfaces\IGeoRegion.cs" />
     <Content Include="Regions\City.cs" />
     <Content Include="Regions\Continent.cs" />

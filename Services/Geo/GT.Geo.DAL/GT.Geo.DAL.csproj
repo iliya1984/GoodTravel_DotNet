@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project Sdk="Microsoft.NET.Sdk">
   <ItemGroup>
-    <ProjectReference Include="..\..\Core\GT.DAL\GT.DAL.csproj" />
-    <ProjectReference Include="..\..\Core\GT.Entities\GT.Entities.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.Entities\GS.Core.Entities.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.DAL\GS.Core.DAL.csproj" />
     <ProjectReference Include="..\GT.Geo.Entities\GT.Geo.Entities.csproj" />
     <Content Include="Interfaces\IContinentRepository.cs" />
     <Content Include="Interfaces\ICountryRepository.cs" />
@@ -17,7 +17,12 @@
     <Content Include="Mongo\Repositories\ContinentMongoDBRepository.cs" />
     <Content Include="Mongo\Entities\DbContinent.cs" />
     <Content Include="Mongo\Repositories\CountryMongoRepository.cs" />
-    <Content Include="Mongo\Entities\DBCountry.cs" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="MongoDB.Driver" Version="2.10.3" />
+    <Content Include="Mongo\Repositories\ContinentMongoRepository.cs" />
+    <Content Include="Mongo\Repositories\CityMongoRepository.cs" />
+    <Content Include="Mongo\Entities\DbCountry.cs" />
+    <Content Include="Mongo\Entities\DbCity.cs" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>

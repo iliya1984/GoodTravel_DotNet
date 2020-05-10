@@ -9,7 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "GT.Geo.Entities/1.0.0": {
         "dependencies": {
-          "GT.Entities": "1.0.0",
+          "GS.Core.Entities": "1.0.0",
           "NETStandard.Library": "2.0.3"
         },
         "runtime": {
@@ -22,9 +22,9 @@
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
       },
-      "GT.Entities/1.0.0": {
+      "GS.Core.Entities/1.0.0": {
         "runtime": {
-          "GT.Entities.dll": {}
+          "GS.Core.Entities.dll": {}
         }
       }
     }
@@ -49,7 +49,7 @@
       "path": "netstandard.library/2.0.3",
       "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
     },
-    "GT.Entities/1.0.0": {
+    "GS.Core.Entities/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
