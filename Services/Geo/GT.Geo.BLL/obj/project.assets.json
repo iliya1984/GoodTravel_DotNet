@@ -1926,6 +1926,20 @@
           "lib/netstandard1.3/System.Threading.ThreadPool.dll": {}
         }
       },
+      "GS.Core.BLL/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "GS.Core.DAL": "1.0.0",
+          "GS.Core.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GS.Core.BLL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GS.Core.BLL.dll": {}
+        }
+      },
       "GS.Core.DAL/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -2039,16 +2053,6 @@
         },
         "runtime": {
           "bin/placeholder/GS.Logging.Entities.dll": {}
-        }
-      },
-      "GT.Entities/1.0.0": {
-        "type": "project",
-        "framework": ".NETStandard,Version=v2.0",
-        "compile": {
-          "bin/placeholder/GT.Entities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/GT.Entities.dll": {}
         }
       },
       "GT.Geo.DAL/1.0.0": {
@@ -6450,6 +6454,11 @@
         "system.threading.threadpool.nuspec"
       ]
     },
+    "GS.Core.BLL/1.0.0": {
+      "type": "project",
+      "path": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.BLL/GS.Core.BLL.csproj",
+      "msbuildProject": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.BLL/GS.Core.BLL.csproj"
+    },
     "GS.Core.DAL/1.0.0": {
       "type": "project",
       "path": "../../../../GoodSoft_DotNet/GS.Core/GS.Core.DAL/GS.Core.DAL.csproj",
@@ -6490,11 +6499,6 @@
       "path": "../../../../GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj",
       "msbuildProject": "../../../../GoodSoft_DotNet/Services/GS.Logging/GS.Logging.Entities/GS.Logging.Entities.csproj"
     },
-    "GT.Entities/1.0.0": {
-      "type": "project",
-      "path": "../../Core/GT.Entities/GT.Entities.csproj",
-      "msbuildProject": "../../Core/GT.Entities/GT.Entities.csproj"
-    },
     "GT.Geo.DAL/1.0.0": {
       "type": "project",
       "path": "../GT.Geo.DAL/GT.Geo.DAL.csproj",
@@ -6508,7 +6512,9 @@
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "GT.Entities >= 1.0.0",
+      "GS.Core.BLL >= 1.0.0",
+      "GS.Core.DAL >= 1.0.0",
+      "GS.Core.Entities >= 1.0.0",
       "GT.Geo.DAL >= 1.0.0",
       "GT.Geo.Entities >= 1.0.0",
       "NETStandard.Library >= 2.0.3"
@@ -6538,8 +6544,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj": {
-              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Core/GT.Entities/GT.Entities.csproj"
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.BLL/GS.Core.BLL.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.BLL/GS.Core.BLL.csproj"
+            },
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.DAL/GS.Core.DAL.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.DAL/GS.Core.DAL.csproj"
+            },
+            "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj": {
+              "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodSoft_DotNet/GS.Core/GS.Core.Entities/GS.Core.Entities.csproj"
             },
             "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/GT.Geo.DAL.csproj": {
               "projectPath": "/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.DAL/GT.Geo.DAL.csproj"

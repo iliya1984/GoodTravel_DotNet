@@ -14,12 +14,10 @@
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GS.Core.Messaging.Producers.dll
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GS.Logging.Client.dll
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GS.Logging.Entities.dll
-/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GT.Entities.dll
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GT.Geo.DAL.dll
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GT.Geo.Entities.dll
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GT.Geo.Entities.pdb
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GT.Geo.DAL.pdb
-/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GT.Entities.pdb
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GS.Core.DAL.pdb
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GS.Core.Entities.pdb
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GS.Core.Helpers.pdb
@@ -30,3 +28,5 @@
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GS.Logging.Entities.pdb
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/obj/Debug/netstandard2.0/GT.Geo.BLL.csprojAssemblyReference.cache
 /home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/obj/Debug/netstandard2.0/GT.Geo.BLL.csproj.CopyComplete
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GS.Core.BLL.dll
+/home/ilya/Desktop/Workspace/Projects/DotNet/GoodTravel_DotNet/Services/Geo/GT.Geo.BLL/bin/Debug/netstandard2.0/GS.Core.BLL.pdb

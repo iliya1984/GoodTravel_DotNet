@@ -4,11 +4,16 @@
     <TargetFramework>netstandard2.0</TargetFramework>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="Interfaces\IContinentsService.cs" />
-    <Content Include="Services\ContinentsService.cs" />
-     <ProjectReference Include="..\..\Core\GT.DAL\GT.DAL.csproj" />
-    <ProjectReference Include="..\..\Core\GT.Entities\GT.Entities.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.Entities\GS.Core.Entities.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.DAL\GS.Core.DAL.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.BLL\GS.Core.BLL.csproj" />
     <ProjectReference Include="..\GT.Geo.Entities\GT.Geo.Entities.csproj" />
     <ProjectReference Include="..\GT.Geo.DAL\GT.Geo.DAL.csproj" />
+    <Content Include="Interfaces\ICountryService.cs" />
+    <Content Include="Interfaces\IContinentService.cs" />
+    <Content Include="Services\ContinentService.cs" />
+    <Content Include="Services\CountryService.cs" />
+    <Content Include="Interfaces\ICityService.cs" />
+    <Content Include="Services\CityService.cs" />
   </ItemGroup>
 </Project>

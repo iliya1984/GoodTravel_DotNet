@@ -1,11 +1,12 @@
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using GS.Core.BLL.Interfaces.Services;
 using GT.Geo.Entities.Regions;
 
 namespace GT.Geo.BLL.Interfaces
 {
-    public interface IContinentsService
+    public interface IContinentService : IGetAllAsyncService<Continent>
     {
-        Task<List<Continent>> GetAllAsync();
+       
     }
 }
