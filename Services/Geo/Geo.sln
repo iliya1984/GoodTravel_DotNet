@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GS.Core.DAL", "..\..\..\Goo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GS.Core.BLL", "..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.BLL\GS.Core.BLL.csproj", "{824F7515-67B2-49FE-875B-55DE55F83FB7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GS.Core.Api", "..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.Api\GS.Core.Api.csproj", "{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -142,5 +144,17 @@ Global
 		{824F7515-67B2-49FE-875B-55DE55F83FB7}.Release|x64.Build.0 = Release|Any CPU
 		{824F7515-67B2-49FE-875B-55DE55F83FB7}.Release|x86.ActiveCfg = Release|Any CPU
 		{824F7515-67B2-49FE-875B-55DE55F83FB7}.Release|x86.Build.0 = Release|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Debug|x64.Build.0 = Debug|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Debug|x86.Build.0 = Debug|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Release|x64.ActiveCfg = Release|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Release|x64.Build.0 = Release|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Release|x86.ActiveCfg = Release|Any CPU
+		{5C58AE9D-3D28-4DC1-AAB3-329C1406C584}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

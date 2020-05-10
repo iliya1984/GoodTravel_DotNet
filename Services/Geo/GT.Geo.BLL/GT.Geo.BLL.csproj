@@ -15,5 +15,6 @@
     <Content Include="Services\CountryService.cs" />
     <Content Include="Interfaces\ICityService.cs" />
     <Content Include="Services\CityService.cs" />
+      <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
   </ItemGroup>
 </Project>

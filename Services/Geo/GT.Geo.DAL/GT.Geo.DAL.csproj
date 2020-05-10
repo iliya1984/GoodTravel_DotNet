@@ -23,6 +23,9 @@
     <Content Include="Mongo\Repositories\CityMongoRepository.cs" />
     <Content Include="Mongo\Entities\DbCountry.cs" />
     <Content Include="Mongo\Entities\DbCity.cs" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <Content Include="DI\GeoDALDIModule.cs" />
+    <Content Include="DI\GeoApiDIModule.cs" />
   </ItemGroup>
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>

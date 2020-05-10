@@ -4,7 +4,7 @@ using GT.Geo.Entities.Regions;
 
 namespace GT.Geo.DAL.Interfaces
 {
-    public interface ICityRepository: IGetByFilterAsyncRepository<CityFIlter, City>
+    public interface ICityRepository: IGetByFilterAsyncRepository<CityFilter, City>
     {
          
     }

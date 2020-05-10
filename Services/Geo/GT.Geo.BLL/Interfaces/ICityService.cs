@@ -4,7 +4,7 @@ using GT.Geo.Entities.Regions;
 
 namespace GT.Geo.BLL.Interfaces
 {
-    public interface ICityService: IGetByFilterAsyncService<CityFIlter, City>
+    public interface ICityService: IGetByFilterAsyncService<CityFilter, City>
     {
          
     }

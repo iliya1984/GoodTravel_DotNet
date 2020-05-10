@@ -9,6 +9,7 @@
     ".NETStandard,Version=v2.0/": {
       "GT.Geo.BLL/1.0.0": {
         "dependencies": {
+          "Autofac.Extensions.DependencyInjection": "6.0.0",
           "GS.Core.BLL": "1.0.0",
           "GS.Core.DAL": "1.0.0",
           "GS.Core.Entities": "1.0.0",

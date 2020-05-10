@@ -23,7 +23,7 @@ namespace GT.Geo.DAL.Mongo.Repositories
             
         }
 
-        public async Task<DataGetResult<City>> GetByFilterAsync(CityFIlter filter)
+        public async Task<DataGetResult<City>> GetByFilterAsync(CityFilter filter)
         {
              try
             {

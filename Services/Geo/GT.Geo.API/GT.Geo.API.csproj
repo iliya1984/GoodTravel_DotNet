@@ -8,8 +8,13 @@
     <ProjectReference Include="..\..\Core\GT.Api\GT.Api.csproj" />
     <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\Services\GS.Logging\GS.Logging.Client\GS.Logging.Client.csproj" />
     <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\Services\GS.Logging\GS.Logging.Entities\GS.Logging.Entities.csproj" />
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.WebApiCompatShim" Version="2.2.0" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.Entities\GS.Core.Entities.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.BLL\GS.Core.BLL.csproj" />
+    <ProjectReference Include="..\..\..\..\GoodSoft_DotNet\GS.Core\GS.Core.Api\GS.Core.Api.csproj" />
+    <ProjectReference Include="..\GT.Geo.Entities\GT.Geo.Entities.csproj" />
+    <ProjectReference Include="..\GT.Geo.BLL\GT.Geo.BLL.csproj" />
+    <Content Include="Controllers\CountriesController.cs" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="6.0.0" />
+    <Content Include="Startup.cs" />
   </ItemGroup>
 </Project>

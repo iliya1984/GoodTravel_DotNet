@@ -1,93 +1,44 @@
+
+
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
 using System.Threading.Tasks;
-using System.Web.Http;
+using GS.Core.Api.Controllers;
+using GS.Core.BLL.Entities.Enums;
 using GS.Logging.Client.Interfaces;
-using GT.Api.Controllers;
+using GT.Geo.BLL.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace GT.Geo.API.Controllers
 {
-    public class ExceptionActionResult : IActionResult
+    [Route("api/continents")]
+    public class ContinentsController : ApiController
     {
-        private List<Exception> _exceptions;
+        private IContinentService _service;
 
-        public ExceptionActionResult(Exception exception)
-        {
-            _exceptions =new List<Exception>{ exception };
+        public ContinentsController(IContinentService service, ILoggingFactory loggingFactory) : base(loggingFactory)
+        { 
+            _service = service;
         }
 
-        public ExceptionActionResult(List<Exception> exceptions)
+       
+        [HttpGet]
+        public async Task<IActionResult> GetAllAsync()
         {
-            _exceptions = exceptions;
-        }
-
-        public async Task ExecuteResultAsync(ActionContext context)
-        {
-            var exceptionResponses = _exceptions.Select(e => toExceptionResponse(e)).ToList();
-            var objectReulst = new ObjectResult(exceptionResponses);
-            objectReulst.StatusCode = (int)HttpStatusCode.InternalServerError;
-            await objectReulst.ExecuteResultAsync(context);
-        }
-
-        private ExceptionResponse toExceptionResponse(Exception e)
-        {
-            var response = new ExceptionResponse
+            try
             {
-                ExceptionMessage = e.Message,
-                StackTrace = e.StackTrace,
-                ExceptionType = e.GetType().Name
-            };
+                var result = await _service.GetAllAsync();
+                if(result.Status == BusinessOperationStatus.Failure)
+                {
+                    return Exception(result);
+                }
 
-            if(e.InnerException != null)
-            {
-                response.InnerException = toExceptionResponse(e.InnerException);
+                return Ok(result.Entities);
             }
-
-            return response;
-        }
-    }
-
-    public class ExceptionResponse
-    {
-        public string ExceptionMessage { get; set; }
-        public string ExceptionType { get; set; }
-        public string StackTrace { get; set; }
-        public ExceptionResponse InnerException { get; set;}
-    }
-
-    public class CustomError
-    {
-        public string ErrorMessage { get; set; }
-        public string StackTrace { get; set;}
-    }
-
-    public class ContinentsController : ControllerBase //: ApiController
-    {
-        // public ContinentsController(ILoggingFactory loggingFactory) : base(loggingFactory)
-        // { }
-
-        [HttpGet]
-        [Route("api/continents/{id}")]
-        public IActionResult GetById(string id)
-        {
-
-                        throw new NotImplementedException();
-        }
-
-        [HttpGet]
-        [Route("api/continents")]
-        public IActionResult GetAll()
-        {
-            var innerException = new Exception("inner error");
-            var exception = new Exception("error", innerException);
-            var result = new ExceptionActionResult(exception);
-      
-           
-            return result;
-
+            catch(Exception ex)
+            {
+                Logger.Error(ex);
+                return Exception(ex);
+            }
         }
     }
 }

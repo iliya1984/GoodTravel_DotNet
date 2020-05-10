@@ -2,6 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using GT.Geo.API.DI;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -21,11 +24,17 @@ namespace GT.Geo.API
         }
 
         public IConfiguration Configuration { get; }
+        public ILifetimeScope AutofacContainer { get; private set;}
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+        }
+
+        public void ConfigureContainer(ContainerBuilder buidler)
+        {
+            buidler.RegisterModule(new GeoApiDIModule(Configuration));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -46,6 +55,8 @@ namespace GT.Geo.API
             {
                 endpoints.MapControllers();
             });
+
+            this.AutofacContainer = app.ApplicationServices.GetAutofacRoot();
         }
     }
 }

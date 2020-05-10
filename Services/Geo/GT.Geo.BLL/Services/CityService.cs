@@ -21,7 +21,7 @@ namespace GT.Geo.BLL.Services
             _repository = repository;
         }
 
-        public async Task<GetResult<City>> GetByFilterAsync(CityFIlter filter)
+        public async Task<GetResult<City>> GetByFilterAsync(CityFilter filter)
         {
             try
             {
